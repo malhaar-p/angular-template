@@ -1,6 +1,24 @@
 # AngularTemplate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+
+Update to Angular 7 project
+This angular template project is created with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+
+
+# Description
+
+This angular project contains the folder structure to organize your big projects, generic http service methods to call your REST APIs, and other resuable components. 
+
+
+
+
+
+
+
+
+
+
+# Angular CLI Commands
 
 ## Development server
 
